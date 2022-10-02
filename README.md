@@ -17,7 +17,9 @@ https://github.com/fiorinoh/sokoban
 
 ### I) Installation manual
 
-- Install pddl from https://github.com/pellierd/pddl4j (use the devel branch)
+Requires Java and Gradle \
+Compatible versions at https://docs.gradle.org/current/userguide/compatibility.html
+- Install Pddl from https://github.com/pellierd/pddl4j (use the devel branch)
 - Install Maven from https://maven.apache.org/download.cgi 
 
 Then from the root of the project run the command:
