@@ -1,8 +1,8 @@
 {
 	"title": {
-		"2": "Scoria 2 - Level 9"
+		"2": "Scoria - Level 19"
 	},
-	"testIn": "##########\n#    #   #\n# # .*   #\n#  $.*@  #\n###$ #####\n  #  #\n  ####",
+	"testIn": " ####\n # @#\n##  ###\n#     #\n# #.  #\n# $  ##\n###  #\n  ####",
 	"isTest": "true",
 	"isValidator": "true"
 }

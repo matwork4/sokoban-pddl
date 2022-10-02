@@ -5,7 +5,7 @@ public class Agent {
     public static void main(String[] args) {
 
         //D = down, U = up, L = left, R = right
-        //String solution = "RDDLLLUUURRDRUDDDLUUDDLLUR"; //(exemple)
+        //String solution = "UURDD"; //(exemple)
         String solution = getSolution();
         for (char c : solution.toCharArray()) System.out.println(c);
     }

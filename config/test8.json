@@ -2,7 +2,7 @@
 	"title": {
 		"2": "Scoria - Level 8"
 	},
-	"testIn": " ####\n##  ###\n#  $  #\n# +$  #\n## $###\n #. . #\n #    #\n ######",
+	"testIn": " ####\n##  ###\n#  $. #\n# +$  #\n#  $. #\n##    #\n #    #\n ######",
 	"isTest": "true",
 	"isValidator": "true"
 }
