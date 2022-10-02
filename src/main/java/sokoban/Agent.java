@@ -13,7 +13,7 @@ public class Agent {
     public static String getSolution(){
 
         //---------------------------------------------------------------
-        //COPIER COLLER LE PLAN SOLUTION ICI (exemple ci-contre du niveau 1)
+        //COPY AND PAST THE SOLUTION GENERATED WITH PDDL HERE (Example with level 1)
         String planSolution = "00: (    moveright b43 b44) [0]\n" +
                 "01: (   movebottom b44 b54) [0]\n" +
                 "02: (   movebottom b54 b64) [0]\n" +
